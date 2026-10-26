@@ -7,7 +7,8 @@ I'm learning Python from basics to lists, from Kakamega, Kenya.
 - Lists
 - Age Calculator that knows today's date automatically
 - Password Checker and Voting Checker
-- First GitHub push!
 
 ## How to run:
 python howOld.py
+## Q12 - Lists
+I learned how to use append(), remove(), and len()
